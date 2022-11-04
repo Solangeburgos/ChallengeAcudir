@@ -1,0 +1,46 @@
+{
+    "actividades":[
+        {
+            "nombre": "Coordinar actividades",
+            "id":"1"
+
+        },
+        {
+            "nombre": "Analizar actividades",
+            "id":"2"
+
+        },
+        {
+            "nombre": "Dividir actividades",
+            "id":"3"
+
+        },
+        {
+            "nombre": "Asignar actividades",
+            "id":"4"
+
+        }
+    ],
+    "participantes":[
+        {
+            "nombre": "Pablo",
+            "id_participante":"1"
+
+        },
+        {
+            "nombre": "Juan",
+            "id_participante":"2"
+
+        },
+        {
+            "nombre": "Pedro",
+            "id_participante":"3"
+
+        },
+        {
+            "nombre": "Sol",
+            "id_participante":"4"
+
+        }
+    ]
+}
